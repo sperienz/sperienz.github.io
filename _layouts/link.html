@@ -4,7 +4,7 @@ layout: default
 
 <section class="post">
   <h2>{{ page.title }}</h2>
-  <span class="meta">URL:<a href="{{page.URL}}">{{page.URL}}</a></span>
+  <span class="meta">URL:<a href="{{page.url}}">{{page.url}}</a></span>
   {{ content }}
   <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></span>
 
