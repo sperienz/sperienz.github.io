@@ -1,7 +1,7 @@
 ---
 layout: link
 title: "Mcnerney: Humans Need Humans to Feel Human"
-date: 2020-05-30T07:23:31.797Z
+date: 2020-04-23T07:23:31.797Z
 linkurl: https://medium.com/@mcnerney/humans-need-humans-to-feel-human-1c2cf9f8e008
 ---
 Matthew McNerney:
