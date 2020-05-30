@@ -4,7 +4,7 @@ backend:
   repo: sperienz/sperienz.github.io
   branch: master
   site_domain: keen-fermat-eb8e06.netlify.com
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
