@@ -4,6 +4,8 @@ title: "CNA: This circuit breaker is making us yearn for human interaction more"
 date: 2020-05-09T06:27:06.621Z
 linkurl: https://www.channelnewsasia.com/news/commentary/circuit-breaker-lockdown-change-human-interaction-introvert-12714412
 ---
+Paulin Tay Straughan:
+
 We are living in the midst of unprecedented global crisis, reeling from the outbreak of one of the most infectious diseases that has brought the entire world to a standstill. The circuit breaker demands of social behaviour that is so contrary to what Singaporeans are used to. We have promoted social integration as a panacea to many of our social challenges – race relations, intergenerational gaps, as well as addressing inequality. Thus, the concept of social distancing is a construct that requires re-socialising entrenched norms and behaviours. 
 
 Even after the circuit breaker is lifted and the last infected person is identified and treated, we may not be able to return to the old norm. These are some of the changes:
