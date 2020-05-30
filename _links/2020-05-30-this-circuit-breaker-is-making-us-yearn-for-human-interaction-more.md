@@ -18,6 +18,4 @@ This circuit breaker has certainly short-circuited our face-to-face engagements.
 
 **HUMAN INTERACTIONS ARE STILL IMPORTANT**
 
-Some might argue that this period of forced confinement may release the hidden introvert in some of us. In the busyness of everyday life, we often yearn for that moment of solitude where we can be by ourselves to ponder on our musings. 
-
-Humans are , by and large, social beings who yield for interaction and the circuit breaker will not change that inert need for external engagement
+Some might argue that this period of forced confinement may release the hidden introvert in some of us. In the busyness of everyday life, we often yearn for that moment of solitude where we can be by ourselves to ponder on our musings. Humans are , by and large, social beings who yield for interaction and the circuit breaker will not change that inert need for external engagement
