@@ -17,7 +17,8 @@ permalink: pretty
 baseurl: ""
 
 highlighter: none
-
+# set timezone
+timezone: Asia/Singapore
 exclude:
   - .jekyll-cache
   
