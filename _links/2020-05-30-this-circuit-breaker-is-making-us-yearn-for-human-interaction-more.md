@@ -1,6 +1,6 @@
 ---
 layout: link
-title: This circuit breaker is making us yearn for human interaction more
+title: "CNA: This circuit breaker is making us yearn for human interaction more"
 date: 2020-05-09T06:27:06.621Z
 linkurl: https://www.channelnewsasia.com/news/commentary/circuit-breaker-lockdown-change-human-interaction-introvert-12714412
 ---
