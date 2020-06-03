@@ -1,7 +1,7 @@
 ---
 layout: event
-title: The Future of Urban Mobility in a Post COVID-19 World, 15 June 2020
-date: 2020-06-01T08:00:00.000Z
+title: The Future of Urban Mobility in a Post COVID-19 World
+date: 2020-06-15T08:00:00.000Z
 linkurl: https://sgtechcentre.undp.org/content/sgtechcentre/en/home/events/the-future-of-urban-mobility-in-a-post-covid-19-world--in-partne.html
 ---
 Rapid urbanisation, increasing air pollution, and changes in behaviour are particularly pressing challenges in urban environments today. How can technology, innovation and intelligent design help cities to build public transport systems that are sustainable, resilient and centred around humans?
