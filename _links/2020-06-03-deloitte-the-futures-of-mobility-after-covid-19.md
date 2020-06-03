@@ -1,0 +1,29 @@
+---
+layout: link
+title: "Deloitte: The futures of mobility after COVID-19"
+date: 2020-05-22T01:15:06.185Z
+linkurl: https://www2.deloitte.com/us/en/insights/economy/covid-19/future-of-mobility-after-covid-19-transportation-scenarios.html
+---
+Deloitte Insights:
+
+A fundamental shift has been driving a move away from personally owned, driver-driven vehicles and toward a future mobility system centered around seamless multimodal travel and enabled by driverless vehicles and shared mobility. Such changes have been propelled by a series of converging technological and social trends: the rapid growth of carsharing and ridesharing; the increasing viability of electric and alternative powertrains; new, lightweight materials; and the growth of connected and, ultimately, autonomous vehicles. The result is the emergence of a new ecosystem of mobility that promises faster, cheaper, cleaner, safer, more efficient, and more customized travel.
+
+As this ecosystem matures, mobility players are grappling along four key dimensions / fundamental choices and trade-offs: leadership, priorities, markets, and personal data. Against this backdrop of innovation and contestation, twin crises are buffeting the future of mobility. The first is COVID-19 itself and the measures that have been put in place across the globe in an attempt to slow its spread and manage the public health repercussions. The second is the resulting economic fallout, which seems likely to push the world into a recession of unknown severity and duration. The trajectory of the future of mobility and the impacts on players across the ecosystem is highly uncertain and could vary dramatically depending on how the pandemic evolves, the health of the overall economy, and on the collective decisions made by governments, businesses, and individuals over the coming months. 
+
+To explore those alternatives, we look at four possible scenarios for a postcoronavirus world over the next three to five years. Although there are wide variance across—and within—scenarios, we also found important commonalities, such an increased emphasis on hygiene in vehicles, or the growing importance of last-mile delivery and e-commerce, upon which companies can act today with at least a modicum of confidence.
+
+At the highest level, the postcoronavirus landscape will likely be shaped by the evolution of two key factors: the duration and severity of the pandemic itself, and the degree to which governments collaborate within and between themselves in the response. Based on the key uncertainties, we developed four notional scenarios:
+
+* A passing storm.  The COVID-19 pandemic shakes society but, after a slow start, is met with an increasingly effective health system and political response. Despite being relatively short-lived, the pandemic causes long-term economic impact. Tensions sharpen between socioeconomic classes.
+* Good company.  The COVID-19 pandemic persists past initial projections, placing a growing burden on governments around the world that struggle to handle the crisis alone. Public-private partnerships surge as companies step up to be part of a global solution. New “pop-up ecosystems” arise as companies across industries partner to respond to critical needs and drive much-needed innovation. 
+* Sunrise in the east.  The COVID-19 pandemic is severe and unfolds inconsistently across the world. The global center of power shifts decisively east as China and other East Asian nations take the reins as primary powers on the world stage and lead global coordination of the health system and other multilateral institutions. 
+* Lone wolves.  The COVID-19 pandemic becomes a prolonged crisis as waves of disease rock the globe for longer than anyone was prepared for.
+
+In the midst of the uncertainty, there are also some trends that we expect will take hold and persist, irrespective of which scenario plays out, specifically:
+
+* Trip substitution via digitization. Telework, telemedicine, and e-learning are likely to become permanent fixtures for some portion of the population, reducing their need to access mobility. The magnitude of these shifts, and whether it creates a material change in overall demand, will depend largely on how long the pandemic and associated stay-at-home orders persist.
+* A new focus on—and expanded definition of—safety. As people begin to travel again, a “safe” trip will likely also mean one that is sanitary and hygienic. Deploying best-in-class measures—and communicating them effectively to users and the public—is likely to become the price of admission for doing business in a postcoronavirus world. That’s likely to be doubly true for shared mobility (ride-hailing, on-demand shuttles, bikeshare, shared e-scooters) and mass transit.
+* Growing reliance on e-commerce and home delivery. The perceived health risks of venturing into crowded stores coupled with stay-at-home orders is accelerating the rapid shift toward online retail and home delivery. We will likely see increased attention to, and innovation around, supply chain optimization, long-haul trucking, and last-mile freight movement, with expanded testing and deployment of automated delivery via robots and drones, as well as remote operation and autonomous drive for long-haul trucking.
+* A reconfigured mobility landscape. New consumer preferences, new use cases, and new business models are likely to emerge. Mobility, already a highly dynamic space, looks set to be even more fluid over the coming months.
+
+The fundamental choice, which will manifest in a thousand variations across the mobility ecosystem, is simple: Do they fall back on old ways, abandoning new modes and services and focusing on legacy businesses or departing the mobility landscape altogether? Or do they maintain and even redouble efforts to forge new approaches that propel us to a reimagined mobility system? 
