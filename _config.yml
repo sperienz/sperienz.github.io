@@ -45,6 +45,9 @@ collections:
   links:
     output: true
     permalink: /links/:year/:month/:day/:slug
+  events:
+    output: true
+    permalink: /events/:year/:month/:day/:slug
 
 defaults:
   -
@@ -70,3 +73,9 @@ defaults:
       type: "links"
     values:
       layout: "link"      
+  -
+    scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"      

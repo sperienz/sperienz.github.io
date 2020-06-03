@@ -1,7 +1,9 @@
 links:
 - title: Links
   url: /
-- title: About
+- title: Events
+  url: /event
+  - title: About
   url: /about
 - title: Search
   url: /search
