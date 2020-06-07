@@ -49,7 +49,4 @@ Deliver.sg takes no commission. Instead, it raises food prices by about 10 per c
 
 WILL THEY SURVIVE COVID-19? 
 
-Mr Hau Koh Foo, director of Singapore Management University Institute of Innovation and Entrepreneurship, thinks not.
- Paying for food to be delivered to homes is unaffordable for many people, he noted, referring to the high delivery costs.
- "If prices can't go down, only the big players will survive because they can use this business to augment their other businesses."
- Hoping to circumvent this, new players like Butleric  intends to provide another service to eateries: analysing customer data and helping them grow their business.
+Mr Hau Koh Foo, director of Singapore Management University Institute of Innovation and Entrepreneurship, thinks not. Paying for food to be delivered to homes is unaffordable for many people, he noted, referring to the high delivery costs. "If prices can't go down, only the big players will survive because they can use this business to augment their other businesses." Hoping to circumvent this, new players like Butleric intends to provide another service to eateries: analysing customer data and helping them grow their business.
