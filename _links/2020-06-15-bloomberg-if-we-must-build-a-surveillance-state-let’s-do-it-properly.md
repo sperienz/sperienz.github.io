@@ -1,0 +1,21 @@
+---
+layout: link
+title: "Bloomberg: If We Must Build a Surveillance State, Let’s Do It Properly"
+date: 2020-04-22T14:03:34.900Z
+linkurl: https://www.bloomberg.com/opinion/articles/2020-04-22/taiwan-offers-the-best-model-for-coronavirus-data-tracking
+---
+Andreas Kluth
+
+*As we develop new apps to track the coronavirus, the best model isn’t the U.S., China, Germany or South Korea. It’s Taiwan.*
+
+Information is one key to controlling the spread of SARS-CoV-2. but for the whizzbang digital tools currently being developed to work, people must actually download and use them. That means they must trust these apps. So digital surveillance — which is what we’re talking about — must be in harmony with our social values. And those vary across the world. What, then, are the main “data cultures” to choose from?
+
+At one extreme, there’s the American approach with its idiosyncratic mix of tech-utopianism and libertarianism. Here, user data is generally assumed to be free by default — for use by the private sector. Another extreme is the Chinese Confucian authoritarianism approach. Here,  data is assumed to belong to the state and the party. Yet another extreme is the German approach, a post-traumatic technophobia. Here, data is assumed to be inherently dangerous, and thus in need of special protection. So data belongs entirely to the user, who must actively consent whenever anybody, private or public, wants it.
+
+Two of the most successful countries in containing Covid-19 so far have been South Korea and, at least initially, Singapore, with approaches that mix the American and Chinese data cultures - a “Confucian-democratic,” because they place the public good above individual rights and privacy, but with the consent of the population.  Polls show that South Koreans approve of these measures. But in Western countries, this won’t fly.
+
+That’s why the most successful data model in the world so far is not South Korea or Singapore but Taiwan. For lack of a better term, I’ll call its approach “participatory self-surveillance.” Like South Korea, Taiwan enforces quarantines with cellphone tracking and has stitched together various government databases, such as travel and health records. But Taiwan and its people added a twist. In effect, the whole country voluntarily partnered with the government to create a protean network of databases in which information flows both from the bottom up and from the top down. To make new online and offline tools for fighting the virus, “hacktivists,” developers and citizens have been collaborating with the government on vTaiwan, a sort of online democracy town hall and brainstorming site. By involving people in the solutions, rather than just dictating policies to them, the process is transparent and inspires trust, even civic pride.
+
+It remains to be seen whether Taiwan’s model is exportable. But other countries should at least consider the Taiwanese approach, if only because the alternatives are worse. The American model, though masquerading as free, is ultimately elitist, imposed by a tech aristocracy on populations that are often digitally and medically disenfranchised. The Chinese model is inherently illiberal and disdains individual dignity and freedom. The other Confucian models, like South Korea’s, are too collectivist for Western sensibilities. And the traditional German/European data angst is paranoid and barren.
+
+Classical liberals like me must accept that we cannot reject a technological quantum leap on the grounds that it might deprive us of liberty. That’s because during a pandemic, the alternative is interminable lockdowns, which rob us of even more freedom. We should also concede that the new tools can’t always be voluntary and anonymous. To contain outbreaks, apps must cover at least 60% of the population; to prevent infections, they must give information that is specific.  But we should insist that we understand what happens to our information, and for how long. Better yet, as in Taiwan, we should participate in capturing, using and protecting the data in the first place. After all, it’s ours; we’re just sharing it temporarily to keep ourselves and others safe.
